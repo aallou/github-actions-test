@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
     inputs:
       name:
-        description: 'TType your name please :)'
+        description: 'Type your name please :)'
         required: false 
         type: string
         default: 'World'
